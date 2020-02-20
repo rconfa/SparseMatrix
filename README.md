@@ -1,6 +1,6 @@
 # Sparse Matrix
 
->Project's specifications are taken from the 2020 C++ exam of the course "Programming C++" and can be found in the file assignment.pdf in italian languages.
+>Project's specifications are taken from the 2020 C++ exam of the course "Programming C++" and can be found in the file assignment.pdf in italian languages. The file report.pdf describe all the information and all my choices on the project in italian languages.
 
 A sparse matrix is a matrix in which only the elements explicitly inserted are physically stored, all other elements have the default value.
 I choose to save in the matrix also elements equal to the default value if they are explicitly inserted! 
